@@ -3,5 +3,3 @@ lib/
 coverage/
 yarn-error.log
 yarn.lock
-npm.lock
-npm-error.log
