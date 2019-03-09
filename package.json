@@ -12,14 +12,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AlanWei/react-acl-router.git"
+        "url": "git+https://github.com/boywild/react-adm-router.git"
     },
     "author": "chentian",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/AlanWei/react-acl-router/issues"
+        "url": "https://github.com/boywild/react-adm-router/issues"
     },
-    "homepage": "https://github.com/AlanWei/react-acl-router#readme",
+    "homepage": "https://github.com/boywild/react-adm-router#readme",
     "devDependencies": {
         "babel-cli": "^6.26.0",
         "babel-core": "^6.26.3",
